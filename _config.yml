@@ -1,0 +1,43 @@
+title: Ingeniería de Sistemas UdeM
+email: ingenieriadesistemasudem@gmail.com
+description: Menú
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: ingsistemasudem
+github_username:  ingsistemasudem
+paginate: 6
+locale: en_us
+
+permalink: /:title
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-mentions
+include: ["_pages"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+jekyll-mentions: https://twitter.com
+
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      comments: true
+      author_name: Ana María Sosa
+      author_username: anamariasosam
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"

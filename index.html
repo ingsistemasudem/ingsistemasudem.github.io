@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h5 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h5>
+    <p class="post-info">
+      Escrito
+      el <span class="post-date">{{ post.date | date_to_string }}</span>
+      en
+      <a href="{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}" class="post-category">{{ post.categories[0] | capitalize }}</a>
+    </p>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Antiguos</a>
+  {% else %}
+    <span class="pagination-item older">Antiguos</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Recientes</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Recientes</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Recientes</span>
+  {% endif %}
+</div>
