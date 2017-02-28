@@ -9,7 +9,7 @@ github_username:  ingsistemasudem
 paginate: 6
 locale: en_us
 
-permalink: /:title
+permalink: /:categories/:title
 markdown: kramdown
 gems:
   - jekyll-feed

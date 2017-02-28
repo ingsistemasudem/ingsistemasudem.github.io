@@ -14,7 +14,7 @@ layout: default
       Escrito
       el <span class="post-date">{{ post.date | date_to_string }}</span>
       en
-      <a href="{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}" class="post-category">{{ post.categories[0] | capitalize }}</a>
+      <a href="{{ "/categorias/" | append: post.categories[0] | prepend: site.baseurl }}" class="post-category">{{ post.categories[0] | capitalize }}</a>
     </p>
   </div>
   {% endfor %}
