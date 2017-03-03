@@ -11,11 +11,19 @@ layout: default
     <span class="post-date">{{ page.date | date_to_string }}</span>
   </p>
 
+  <img src="/assets/images/posts/{{page.image}}" alt="{{page.title}}">
+
   {{ content }}
 
   <hr>
   <p>No olvides compartirlo!</p>
-  <div class="sharethis-inline-share-buttons"></div>
+  <!-- AddToAny BEGIN -->
+  <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_twitter"></a>
+  </div>
+  <script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
   <br>
   <div class="related">
     <h2>No te pierdas lo último en {{page.categories[0]}}</h2>
