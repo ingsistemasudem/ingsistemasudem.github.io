@@ -14,6 +14,10 @@
   <link href="https://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
+  <meta name="description" content="Facultad de Ingeniería de Sistemas - Universidad de Medellín">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript,UdeM, Sistemas, Eventos, Noticias">
+  <meta name="author" content="Ana María Sosa M">
+
   <!-- CSS -->
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
@@ -41,11 +45,7 @@
     {% else %}
       <meta content="website" property="og:type">
     {% endif %}
-    {% if page.description %}
-      <meta content="{{ page.description }}" property="og:description">
-    {% else %}
-      <meta content="{{ site.description }}" property="og:description">
-    {% endif %}
+    <meta content="Facultad de Ingeniería de Sistemas - Universidad de Medellín" property="og:description">
     {% if page.url %}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {% endif %}
@@ -81,11 +81,7 @@
     {% if page.url %}
       <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     {% endif %}
-    {% if page.description %}
-      <meta name="twitter:description" content="{{ page.description }}">
-    {% else %}
-      <meta name="twitter:description" content="{{ site.description }}">
-    {% endif %}
+    <meta name="twitter:description" content="Facultad de Ingeniería de Sistemas - Universidad de Medellín ">
     {% if page.header-img %}
       <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
     {% endif %}
