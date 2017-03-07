@@ -34,8 +34,6 @@ defaults:
     values:
       layout: "post"
       comments: true
-      author_name: Ana María Sosa
-      author_username: anamariasosam
   -
     scope:
       path: "" # an empty string here means all files in the project
