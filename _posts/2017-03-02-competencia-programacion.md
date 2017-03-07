@@ -4,9 +4,9 @@ categories: eventos
 image: "competencia.jpg"
 ---
 
-El sábado 11 de Marzo a la 1:00pm, se realizará la segunda actividad del año de **programación competitiva. **La cual contará con una sola división, que tendrá alrededor de **doce retos de programación**.
+El sábado 11 de Marzo a la 1:00pm, se realizará la segunda actividad del año de programación competitiva. **La cual contará con una sola división, que tendrá alrededor de doce retos de programación**.
 
-Es una maratón pensada para todo tipo de competidor y se espera continuar el ciclo de entrenamiento de los equipos latinos que** sueñan con alcanzar un cupo al mundial de programación del 2018. **
+Es una maratón pensada para todo tipo de competidor y se espera continuar el ciclo de entrenamiento de los equipos latinos que **sueñan con alcanzar un cupo al mundial de programación del 2018.**
 
 Existen dos modalidades de competencia: presencial y virtual.
 
