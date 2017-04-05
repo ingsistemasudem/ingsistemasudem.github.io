@@ -1,6 +1,6 @@
 ---
 title: ¿Te gustaría ser co-fundador de una empresa tecnológica?
-categories: noticias
+categories: Noticias
 image: "phyweb.jpg"
 ---
 
@@ -23,4 +23,4 @@ Los seleccionados entrarán hacer parte de los socios fundadores de Phyweb y se 
 
 ### EL PLAZO MÁXIMO ES HASTA HOY 5 DE ABRIL
 
-Si estás interesado en participar, envíales tu hoja de vida al correo: ceg@udem.edu.co
+Si estás interesado en participar, envíales tu hoja de vida al correo: <ceg@udem.edu.co>
