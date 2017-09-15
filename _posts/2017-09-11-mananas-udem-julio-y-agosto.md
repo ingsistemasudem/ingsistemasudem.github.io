@@ -21,5 +21,5 @@ Estos son los tres colegios quen nos visitaron entre Julio y Agosto de 2017:
   - [Clic aquí para ver más fotografías del evento](https://photos.app.goo.gl/eAXU8xZaUnuF2xgo2)
 - IE Concejo de Medellín
   - Fecha de visita: 25 de Agosto de 2017
-  - ![image-title-here](/assets/images/posts/federico-carrasquilla.jpg)
-  - [Clic aquí para ver más fotografías del evento](https://photos.app.goo.gl/eAXU8xZaUnuF2xgo2)
+  - ![image-title-here](/assets/images/posts/consejo-medellin.jpg)
+  - [Clic aquí para ver más fotografías del evento](https://photos.app.goo.gl/4HNp6iEOr9XLEXHS2)
