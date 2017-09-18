@@ -1,6 +1,6 @@
 ---
 title: Mañanas UdeM - Julio y Agosto
-categories: Eventos
+categories: eventos
 image: "manana-udem.jpg"
 ---
 Este semestre hemos tenido la visita en nuestras Mañanas UdeM de algunos colegios de la ciudad de Medellín, el objetivo de los talleres es motivar a los estudiantes que cursan el último año en sus colegios, a que hagan parte de carreras relacionadas con tecnología.

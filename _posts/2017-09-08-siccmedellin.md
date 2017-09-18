@@ -1,6 +1,6 @@
 ---
 title: SICC, Octubre 18 - 20 en la Universidad de Medellin
-categories: Eventos
+categories: eventos
 image: "siccx.png"
 ---
 

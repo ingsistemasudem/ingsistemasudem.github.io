@@ -1,6 +1,6 @@
 ---
 title: Foro de Software sobre Big Data
-categories: Eventos
+categories: eventos
 image: "foro-big-data.jpg"
 ---
 El pasado mes de agosto tuvimos nuestro foro de software donde hablamos sobre Big Data y cómo Netflix está cambiando la industria televisiva.
