@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "ingsistemasudem.github.io" # the base hostname & protocol for your site
 twitter_username: ingsistemasudem
 github_username:  ingsistemasudem
-paginate: 4
+paginate: 6
 locale: en_us
 
 permalink: /:categories/:title
