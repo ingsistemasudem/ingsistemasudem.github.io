@@ -21,11 +21,6 @@ layout: default
 </div>
 
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Antiguos</a>
-  {% else %}
-    <span class="pagination-item older">Antiguos</span>
-  {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="/">Recientes</a>
@@ -34,5 +29,10 @@ layout: default
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Recientes</span>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Antiguos</a>
+  {% else %}
+    <span class="pagination-item older">Antiguos</span>
   {% endif %}
 </div>
