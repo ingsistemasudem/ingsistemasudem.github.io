@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #202020;
+  background-color: #895839;
 }
 @media (min-width: 30rem) {
   .sidebar {
@@ -216,7 +216,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #505050;
+  color: #895839;
   background-color: #fff;
   border-radius: 4px;
   cursor: pointer;
@@ -238,7 +238,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
   color: #fff;
-  background-color: #505050;
+  background-color: #895839;
 }
 
 @media (min-width: 30.1rem) {
@@ -336,7 +336,7 @@ a.sidebar-nav-item:focus {
 }
 
 .post-category {
-  color: #268bd2;
+  color: #FBBB6C;
   text-decoration: underline;
 }
 
