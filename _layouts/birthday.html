@@ -1,11 +1,49 @@
----
-layout: default
----
-<div class="post">
-  <img src="/assets/images/posts/{{page.image}}" alt="cumpleaños del mes">
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-  {{ content }}
+  {% include head.html %}
 
-</div>
+  <body>
 
-<script src="node_modules/confetti-js/dist/index.min.js"></script>
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content birthday--container">
+        <img src="/assets/images/posts/{{page.image}}" alt="cumpleaños del mes" id="birthdayBanner">
+        <canvas id="confetti" class="birthday--confetti"></canvas>
+
+        {{ content }}
+
+      </div>
+    </div>
+    <script type="text/javascript" src="/js/confetti.min.js"></script>
+    <script>
+      var confettiSettings = {
+        "target": "confetti",
+        "max": "350",
+        "size": "1",
+        "animate": true,
+        "props":["circle","square","triangle","line"],
+        "colors":[[165,104,246],[230,61,135],[0,199,228],[253,214,126]],
+        "clock": "16",
+        "width": document.getElementById("birthdayBanner").width,
+        "height": "1300"
+      }
+      var confetti = new window.ConfettiGenerator(confettiSettings);
+      confetti.render();
+    </script>
+  </body>
+</html>
