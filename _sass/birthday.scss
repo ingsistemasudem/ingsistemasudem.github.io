@@ -1,0 +1,24 @@
+.birthday {
+  &--container {
+    & {
+      position: relative;
+    }
+
+    & table {
+      overflow: hidden;
+      position: absolute;
+      background: rgba(255,255,255,1);
+      margin: 0 auto;
+      top: 120%;
+      left: 0;
+      right: 0;
+      max-width: 500px;
+      z-index: 9;
+      border: none;
+    }
+  }
+
+  &--confetti {
+    position: absolute
+  }
+}
