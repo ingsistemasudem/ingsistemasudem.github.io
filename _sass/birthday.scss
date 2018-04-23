@@ -1,12 +1,12 @@
 .birthday {
-  &--container {
+  &-container {
     & {
-      position: relative;
+      // position: relative;
     }
 
     & table {
-      overflow: hidden;
-      position: absolute;
+      // overflow: hidden;
+      // position: absolute;
       background: rgba(255,255,255,1);
       margin: 0 auto;
       top: 120%;
@@ -18,7 +18,47 @@
     }
   }
 
-  &--confetti {
-    position: absolute
+  &-confetti {
+    // position: absolute
+  }
+
+  &-banner {
+    width: 720px;
+    height: 200px;
+    background-color: #ADE3E1;
+    text-align: center;
+    position: relative;
+    margin-bottom: 40px;
+
+    & h1 {
+      padding-top: 30px;
+      color: #000;
+      font-size: 4em;
+      font-family: 'Yellowtail', cursive;
+    }
+
+    & h2 {
+      color: #F90036;
+      font-family: 'Lato', sans-serif;
+      text-transform: uppercase;
+      font-size: 2.8em;
+      margin-top: -20px;
+    }
+
+    &--cake,
+    &--gift {
+      position: absolute;
+      height: 200px;
+      width: 134px;
+      top: 0;
+    }
+
+    &--cake {
+      left: 0;
+    }
+
+    &--gift {
+      right: 0;
+    }
   }
 }

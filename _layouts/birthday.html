@@ -21,9 +21,16 @@
         </div>
       </div>
 
-      <div class="container content birthday--container">
-        <img src="/assets/images/posts/{{page.image}}" alt="cumpleaños del mes" id="birthdayBanner">
-        <canvas id="confetti" class="birthday--confetti"></canvas>
+      <div class="container content birthday-container">
+        <div class="birthday-banner">
+          <img class="birthday-banner--cake"
+          src="/assets/images/cake.png">
+          <h1>Cumpleaños</h1>
+          <h2>Enero</h2>
+          <img class="birthday-banner--gift"
+          src="/assets/images/gift.png">
+        </div>
+        <canvas id="confetti" class="birthday-confetti"></canvas>
 
         {{ content }}
 
