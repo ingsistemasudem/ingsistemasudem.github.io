@@ -1,123 +1,115 @@
 ---
 categories: cumpleaños
-image: enero-banner.png
+title: Cumpleaños Abril
 layout: birthday
 ---
-<table>
+<table id="birthdayTable">
 <tbody><tr>
-<td><b>Fecha</b></td>
-<td><b>Estudiante</b></td>
+<td><b>Día</b></td>
+<td><b>Estudiantes</b></td>
 </tr>
 <tr>
-<td>enero 1</td>
-<td>LUNA REINOSA SEBASTIÁN LEANDRO</td>
+<td>2</td>
+<td>MONSALVE ECHEVERRY JUAN ESTEBAN</td>
 </tr>
 <tr>
-<td>enero 1</td>
-<td>JIMÉNEZ RAIGOSA SANTIAGO</td>
+<td>2</td>
+<td>OCHOA VILLADA MARIANA</td>
 </tr>
 <tr>
-<td>enero 2</td>
-<td>PÉREZ AGUDELO MANUELA ANDREA</td>
+<td>3</td>
+<td>TORRES CALLE BRYAN</td>
 </tr>
 <tr>
-<td>enero 3</td>
-<td>JIMÉNEZ GÓMEZ MATEO</td>
+<td>4</td>
+<td>LOAIZA JARAMILLO MANUELA</td>
 </tr>
 <tr>
-<td>enero 4</td>
-<td>URIBE PIEDRAHÍTA ALEJANDRO</td>
+<td>4</td>
+<td>MAYA RESTREPO ANDRÉS FELIPE</td>
 </tr>
 <tr>
-<td>enero 4</td>
-<td>ECHEVERRI HERRERA ALEJANDRO</td>
+<td>5</td>
+<td>CHICA OSORIO ANDERSON</td>
 </tr>
 <tr>
-<td>enero 4</td>
-<td>RAMIREZ ARBELAEZ SEBASTIAN</td>
+<td>5</td>
+<td>PELAEZ RONCANCIO  KENNETH STIVEN</td>
 </tr>
 <tr>
-<td>enero 4</td>
-<td>RÍOS TABARES OSCAR GONZÁLO</td>
+<td>7</td>
+<td>LUJAN MUÑOZ BRAYAN</td>
 </tr>
 <tr>
-<td>enero 6</td>
-<td>GALVIS RIVERO MAURICIO ANDRÉS</td>
+<td>7</td>
+<td>ROSADO VÉLEZ ÓSCAR ALFONSO</td>
 </tr>
 <tr>
-<td>enero 10</td>
-<td>URIBE SALAZAR JUAN PABLO</td>
+<td>8</td>
+<td>ARCILA HERRERA JOSÉ LUIS</td>
 </tr>
 <tr>
-<td>enero 11</td>
-<td>PALACIOS SARMIENTO ANDRÉS FELIPE</td>
+<td>8</td>
+<td>OROZCO HENAO JOHN DAVID</td>
 </tr>
 <tr>
-<td>enero 12</td>
-<td>GUZMAN ALVAREZ MATEO</td>
+<td>12</td>
+<td>ECHEVERRY AGUDELO MANUEL FERNANDO</td>
 </tr>
 <tr>
-<td>enero 12</td>
-<td>CORREA CORREA JUAN JOSÉ</td>
+<td>12</td>
+<td>LÓPEZ FORONDA BRAYAN</td>
 </tr>
 <tr>
-<td>enero 13</td>
-<td>FRANCO GALLEGO KEVIN ESTIVEN</td>
+<td>13</td>
+<td>OSPINA CAÑAVERAL KEVIN SNEIDER</td>
 </tr>
 <tr>
-<td>enero 14</td>
-<td>MEJÍA CASTAÑO JUAN SEBASTIÁN</td>
+<td>15</td>
+<td>ORDOÑEZ ROJAS SANTIAGO</td>
 </tr>
 <tr>
-<td>enero 19</td>
-<td>KOOKC OBANDO SEBASTIÁN</td>
+<td>16</td>
+<td>SIERRA PÉREZ CAMILO</td>
 </tr>
 <tr>
-<td>enero 19</td>
-<td>CASTAÑO MARÍN JUAN ESNEIDER</td>
+<td>18</td>
+<td>CAMINO DURANGO GERALDINE</td>
 </tr>
 <tr>
-<td>enero 19</td>
-<td>BEDOYA GIRALDO ESTEBAN</td>
+<td>18</td>
+<td>MOLINA NARVÁEZ CARLOS ARTURO</td>
 </tr>
 <tr>
-<td>enero 20</td>
-<td>GRANDA PARRA JHOSEP</td>
+<td>21</td>
+<td>MEJIA OTALVARO JUAN DIEGO</td>
 </tr>
 <tr>
-<td>enero 22</td>
-<td>VILLA BERRÍO ALEXANDER</td>
+<td>22</td>
+<td>GOMEZ HERNANDEZ WILLIAM DAVID</td>
 </tr>
 <tr>
-<td>enero 22</td>
-<td>PALACIO ALCARAZ JUAN CAMILO</td>
+<td>23</td>
+<td>AVILEZ RAMOS ELÍAS</td>
 </tr>
 <tr>
-<td>enero 22</td>
-<td>SUAZA BUILES ALEJANDRO</td>
+<td>24</td>
+<td>ZAPATA CORDOBA FABIAN</td>
 </tr>
 <tr>
-<td>enero 23</td>
-<td>VÉLEZ MARÍN DYLAN STEE</td>
+<td>25</td>
+<td>FINO ARISTIZÁBAL YARLIN XIMENA</td>
 </tr>
 <tr>
-<td>enero 28</td>
-<td>BEDOYA VILLEGAS RICHARD</td>
+<td>27</td>
+<td>GRANDA PIEDRAHÍTA ANDRÉS FELIPE</td>
 </tr>
 <tr>
-<td>enero 28</td>
-<td>GIRALDO TAMAYO SEBASTIÁN</td>
+<td>27</td>
+<td>ZAPATA RUIZ MARÍA FERNANDA</td>
 </tr>
 <tr>
-<td>enero 29</td>
-<td>MONTES RUBIANO JUAN DIEGO</td>
-</tr>
-<tr>
-<td>enero 30</td>
-<td>ZAPATA ARBELÁEZ ESTIVEN</td>
-</tr>
-<tr>
-<td>enero 31</td>
-<td>OLARTE CUERVO ANDRES</td>
+<td>28</td>
+<td>GIL SEPULVEDA JHON JAIME</td>
 </tr>
 </tbody></table>

@@ -22,11 +22,12 @@
       </div>
 
       <div class="container content birthday-container">
-        <div class="birthday-banner">
+        <div class="birthday-banner" id="birthdayBanner">
           <img class="birthday-banner--cake"
           src="/assets/images/cake.png">
           <h1>Cumpleaños</h1>
-          <h2>Enero</h2>
+          {% assign title = page.title | split: ' ' %}
+          <h2>{{  title | last }}</h2>
           <img class="birthday-banner--gift"
           src="/assets/images/gift.png">
         </div>
@@ -40,14 +41,14 @@
     <script>
       var confettiSettings = {
         "target": "confetti",
-        "max": "350",
+        "max": "450",
         "size": "1",
         "animate": true,
         "props":["circle","square","triangle","line"],
         "colors":[[165,104,246],[230,61,135],[0,199,228],[253,214,126]],
-        "clock": "16",
-        "width": document.getElementById("birthdayBanner").width,
-        "height": "1300"
+        "clock": "20",
+        "width": document.getElementById("birthdayBanner").offsetWidth,
+        "height": document.getElementById("birthdayTable").offsetHeight + 100
       }
       var confetti = new window.ConfettiGenerator(confettiSettings);
       confetti.render();

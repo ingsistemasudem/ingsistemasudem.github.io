@@ -1,123 +1,119 @@
 ---
 categories: cumpleaños
-image: enero-banner.png
 layout: birthday
+title: Cumpleaños Marzo
 ---
-<table>
+<table id="birthdayTable">
 <tbody><tr>
-<td><b>Fecha</b></td>
-<td><b>Estudiante</b></td>
+<td><b>Día</b></td>
+<td><b>Estudiantes</b></td>
 </tr>
 <tr>
-<td>enero 1</td>
-<td>LUNA REINOSA SEBASTIÁN LEANDRO</td>
+<td>1</td>
+<td>THOMAS URIBE GABRIEL JAIME</td>
 </tr>
 <tr>
-<td>enero 1</td>
-<td>JIMÉNEZ RAIGOSA SANTIAGO</td>
+<td>3</td>
+<td>HENAO HERNÁNDEZ DAVID</td>
 </tr>
 <tr>
-<td>enero 2</td>
-<td>PÉREZ AGUDELO MANUELA ANDREA</td>
+<td>4</td>
+<td>ARROYAVE SERNA JUAN JOSE</td>
 </tr>
 <tr>
-<td>enero 3</td>
-<td>JIMÉNEZ GÓMEZ MATEO</td>
+<td>4</td>
+<td>PASTRANA RIVAS CAMILO ANDRES</td>
 </tr>
 <tr>
-<td>enero 4</td>
-<td>URIBE PIEDRAHÍTA ALEJANDRO</td>
+<td>6</td>
+<td>NARANJO CUARTAS JUAN CAMILO</td>
 </tr>
 <tr>
-<td>enero 4</td>
-<td>ECHEVERRI HERRERA ALEJANDRO</td>
+<td>7</td>
+<td>PARDO QUIÑONES CASSEY DUVÁN</td>
 </tr>
 <tr>
-<td>enero 4</td>
-<td>RAMIREZ ARBELAEZ SEBASTIAN</td>
+<td>9</td>
+<td>TAMAYO GIL YEISON ARLEY</td>
 </tr>
 <tr>
-<td>enero 4</td>
-<td>RÍOS TABARES OSCAR GONZÁLO</td>
+<td>11</td>
+<td>QUIROZ SERNA JOSE ALONSO</td>
 </tr>
 <tr>
-<td>enero 6</td>
-<td>GALVIS RIVERO MAURICIO ANDRÉS</td>
+<td>14</td>
+<td>BEDOYA MEDINA DANIEL ESTEBAN</td>
 </tr>
 <tr>
-<td>enero 10</td>
-<td>URIBE SALAZAR JUAN PABLO</td>
+<td>15</td>
+<td>MUÑOZ PEREZ JUAN ESTEBAN</td>
 </tr>
 <tr>
-<td>enero 11</td>
-<td>PALACIOS SARMIENTO ANDRÉS FELIPE</td>
+<td>16</td>
+<td>GARCÍA ÁLVAREZ YENY CAROLINA</td>
 </tr>
 <tr>
-<td>enero 12</td>
-<td>GUZMAN ALVAREZ MATEO</td>
+<td>18</td>
+<td>GRANADOS CUERVO MELANNY DISHEL</td>
 </tr>
 <tr>
-<td>enero 12</td>
-<td>CORREA CORREA JUAN JOSÉ</td>
+<td>18</td>
+<td>HERNÁNDEZ JIMÉNEZ RAUL ANDRÉS</td>
 </tr>
 <tr>
-<td>enero 13</td>
-<td>FRANCO GALLEGO KEVIN ESTIVEN</td>
+<td>19</td>
+<td>VÉLEZ OSORIO DIEGO ALEJANDRO</td>
 </tr>
 <tr>
-<td>enero 14</td>
-<td>MEJÍA CASTAÑO JUAN SEBASTIÁN</td>
+<td>20</td>
+<td>CALLE VELÁSQUEZ JULIÁN</td>
 </tr>
 <tr>
-<td>enero 19</td>
-<td>KOOKC OBANDO SEBASTIÁN</td>
+<td>20</td>
+<td>LEMUS RAMOS EDGAR DUVAN</td>
 </tr>
 <tr>
-<td>enero 19</td>
-<td>CASTAÑO MARÍN JUAN ESNEIDER</td>
+<td>20</td>
+<td>URREA CIRO BRAYAN ALEXIS</td>
 </tr>
 <tr>
-<td>enero 19</td>
-<td>BEDOYA GIRALDO ESTEBAN</td>
+<td>21</td>
+<td>CALDERÓN GAVIRIA JHON ALEXÁNDER</td>
 </tr>
 <tr>
-<td>enero 20</td>
-<td>GRANDA PARRA JHOSEP</td>
+<td>22</td>
+<td>ASSIA GENEY DIEGO ALFONSO</td>
 </tr>
 <tr>
-<td>enero 22</td>
-<td>VILLA BERRÍO ALEXANDER</td>
+<td>25</td>
+<td>SÁNCHEZ RESTREPO JHON ALEJANDRO</td>
 </tr>
 <tr>
-<td>enero 22</td>
-<td>PALACIO ALCARAZ JUAN CAMILO</td>
+<td>25</td>
+<td>UMAÑA VILLADA SANTIAGO</td>
 </tr>
 <tr>
-<td>enero 22</td>
-<td>SUAZA BUILES ALEJANDRO</td>
+<td>26</td>
+<td>ÁVALOS OQUENDO LEÓN JAIRO</td>
 </tr>
 <tr>
-<td>enero 23</td>
-<td>VÉLEZ MARÍN DYLAN STEE</td>
+<td>27</td>
+<td>OROZCO PENAGOS DIEGO FELIPE</td>
 </tr>
 <tr>
-<td>enero 28</td>
-<td>BEDOYA VILLEGAS RICHARD</td>
+<td>27</td>
+<td>VÉLEZ GUERRA MIGUEL ÁNGEL</td>
 </tr>
 <tr>
-<td>enero 28</td>
-<td>GIRALDO TAMAYO SEBASTIÁN</td>
+<td>30</td>
+<td>JARAMILLO MEDINA ESTEFANIA</td>
 </tr>
 <tr>
-<td>enero 29</td>
-<td>MONTES RUBIANO JUAN DIEGO</td>
+<td>30</td>
+<td>MEDINA MARTÍNEZ PATRICIO</td>
 </tr>
 <tr>
-<td>enero 30</td>
-<td>ZAPATA ARBELÁEZ ESTIVEN</td>
-</tr>
-<tr>
-<td>enero 31</td>
-<td>OLARTE CUERVO ANDRES</td>
+<td>30</td>
+<td>MENCO JARABA JORGE LUIS</td>
 </tr>
 </tbody></table>
